@@ -1,2 +1,4 @@
 # stepik_auto_selenium_course
-In the current repository will be commited the new tasks within the course of Stepik Selenium 
+In current repository will be committed the new tasks within the course of Stepik Selenium. 
+Ссылка на курс, а также на иные курсы проекта https://stepik.org
+
